@@ -2,6 +2,7 @@
   "name": "expresslearn",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +12,6 @@
   "description": "Node Express Learning Project",
   "dependencies": {
     "express": "^5.1.0",
-    "mongodb": "^6.16.0"
+    "mongoose": "^8.15.0"
   }
 }
