@@ -1,9 +1,13 @@
+import dotenv from "dotenv";
 import express from "express";
 import mongoose from "mongoose";
-import MONGOURI from "./mongoUri.js";
 import User from "./models/userModel.js";
 const app = express();
 const port = 3000;
+
+dotenv.config();
+
+const MONGOURI = process.env.MONGO_URI
 
 app.use(express.json());
 
