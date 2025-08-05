@@ -1,0 +1,9 @@
+[
+  {
+    "id": "T-JS0001",
+    "lineId": "JS",
+    "currentStation": "Omiya",
+    "nextStation": "Urawa",
+    "status": "ON_TIME"
+  }
+]

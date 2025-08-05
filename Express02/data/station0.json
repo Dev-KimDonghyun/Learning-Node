@@ -1,0 +1,7 @@
+[
+  { "code": "JS24", "name": "Omiya", "sequence": 1 },
+  { "code": "JS23", "name": "Urawa", "sequence": 2 },
+  { "code": "JS22", "name": "Akabane", "sequence": 3 },
+  { "code": "JS21", "name": "Ikebukuro", "sequence": 4 },
+  { "code": "JS20", "name": "Shinjuku", "sequence": 5 }
+]
